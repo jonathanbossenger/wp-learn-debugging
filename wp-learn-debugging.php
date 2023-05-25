@@ -3,6 +3,7 @@
  * Plugin Name: WP Learn Debugging
  * Plugin Description: A plugin to learn about debugging in WordPress.
  * Plugin URI: https://learn.wordpress.org
+ * Version: 1.0.0
  */
 
 /**
